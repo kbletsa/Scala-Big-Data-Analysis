@@ -1,6 +1,6 @@
 # Big Data Analysis Technologies - Scala
 
-This repository contains the implementation of the 3rd Assignment for the "Big Data Analysis Technologies" course. The project focuses on processing large datasets using **Apache Spark** with **Scala**.
+This repository contains the implementation of a project focuses on processing large datasets using **Apache Spark** with **Scala**.
 
 ## Project Overview
 
