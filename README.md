@@ -1,4 +1,4 @@
-# Big Data Analysis Technologies - Scala
+# Big Data Analysis Technologies - Apache Spark (Scala)
 
 This repository contains the implementation of a project focuses on processing large datasets using **Apache Spark** with **Scala**.
 
